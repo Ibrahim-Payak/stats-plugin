@@ -5,7 +5,7 @@
 
 - [Overview](#overview)
 - [Built With](#built-with)
-- [How To Use](#How To Use)
+- [How To Use](#how-to-use)
 - [Contact](#contact)
 
 <!-- OVERVIEW -->
@@ -18,7 +18,7 @@
 
 - The project is built using Java, maven and Spring boot a popular Java framework.
 
-## How To Use
+### How To Use
 
 <!-- This is an example, please update according to your application -->
 
